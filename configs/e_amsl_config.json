@@ -1,1 +1,24 @@
-
+{
+  "sampling_interval_seconds": 4,
+  "window_length": 125,
+  "window_stride": 1,
+  "input_variables": 9,
+  "optimizer": "Adam",
+  "learning_rate": 0.01,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "epsilon": 1e-7,
+  "batch_size": 16,
+  "training_epochs": 20,
+  "dropout": 0.2,
+  "l2_regularization": 0.00005,
+  "contrastive_temperature": 0.1,
+  "global_memory_slots": 500,
+  "local_memory_slots": 500,
+  "latent_dimension": 128,
+  "threshold_percentile": 95,
+  "random_seeds": [
+    11, 22, 33, 44, 55,
+    66, 77, 88, 99, 110
+  ]
+}
