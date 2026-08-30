@@ -5,12 +5,7 @@ with the E-AMSL study.
 
 ## Sequence Roles
 
-| Sequence | Well | Experimental role | Number of causal windows |
-| TSPP1    | F-12 | Development       | 20,872 |
-| TSPP2    | F-4 | Independent test   | 8,375 |
-| TSPP3    | F-9A | Independent test  | 12,409 |
-| TSPP4    | F-1 | Development        | 10,505 |
-| TSPP5    | F-12 | Development       | 11,453 |
+
 
 The three development sequences contain 42,830 causal windows in total.
 
