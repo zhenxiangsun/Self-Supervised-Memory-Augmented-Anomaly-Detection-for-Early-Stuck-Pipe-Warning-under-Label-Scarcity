@@ -68,3 +68,12 @@ Each E-AMSL input sample is a strictly causal window containing
 
 ```text
 125 time steps × 9 variables
+
+## Evaluation_protocol
+TSPP1/TSPP4/TSPP5 → development
+TSPP2/TSPP3       → independent test
+
+Dtrain → network training
+Dval   → label-free HPO
+Dcal   → threshold calibration
+Dtest  → final evaluation only
