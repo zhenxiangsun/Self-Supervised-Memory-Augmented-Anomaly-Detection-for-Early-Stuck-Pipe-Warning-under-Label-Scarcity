@@ -14,7 +14,13 @@ representation learning, prototype-constrained reconstruction, and a causal
 operational-disambiguation mechanism.
 
 ---
-
+**Code availability notice:** The complete E-AMSL implementation is
+> temporarily withheld because several core components are currently being used
+> in ongoing follow-up research within our research group. In accordance with
+> the group's confidentiality and research-output protection requirements, the
+> full source code cannot be publicly released at this stage. Public release
+> will be considered after completion of the related follow-up research and
+> subject to applicable institutional and intellectual-property requirements.
 ## Repository Scope
 
 This repository is intended to document the experimental protocol and provide
